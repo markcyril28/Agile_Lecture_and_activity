@@ -15,6 +15,6 @@ for n, line in enumerate(open(sys.argv[2])):
     else:
         dat.insert(0, "Gene ID")
         dat.insert(1, "Gene Annotation")
-    print '\t'.join(dat)
+    print ("\t".join(dat))
         
     
