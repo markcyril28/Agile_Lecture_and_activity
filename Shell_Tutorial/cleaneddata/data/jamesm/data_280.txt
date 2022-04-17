@@ -1,9 +1,3 @@
-# 
-Reported: Thu Sep 15 16:14:23 2011
-Subject: johnAsparagus231
-Year/month of birth: 1997/02
-Sex: M
-CI type: 23
-Volume: 9
-Range: 10
-Discrimination: 8
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b4ba6d607479019bc3e6fbd1d33784c3afbb65f1ff5109bd72655cd2b63d90a
+size 150

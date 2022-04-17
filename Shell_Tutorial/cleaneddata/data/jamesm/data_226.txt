@@ -1,9 +1,3 @@
-# 
-Reported: Mon Jul 25 11:10:05 2011
-Subject: madonnaMcCartney188
-Year/month of birth: 1992/03
-Sex: N
-CI type: 14
-Volume: 2
-Range: 1
-Discrimination: 4
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4cb879e928687cb425e4c7c106d7190f852403de892386d5636930845ed0dfa
+size 152

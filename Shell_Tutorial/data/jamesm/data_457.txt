@@ -1,9 +1,3 @@
-# 
-Reported: Wed Sep 14 09:18:41 2011
-Subject: beyonceBeatle366
-Year/month of birth: 1999/10
-Sex: N
-CI type: 12
-Volume: 6
-Range: 7
-Discrimination: 6
+version https://git-lfs.github.com/spec/v1
+oid sha256:de5f3c97374fd1892141cacbe4e52324695113b5908460151743fc14a23533c8
+size 149

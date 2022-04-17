@@ -1,9 +1,3 @@
-# 
-Reported: Thu Sep 29 14:25:35 2011
-Subject: jayCarrot386
-Year/month of birth: 1991/11
-Sex: F
-CI type: 23
-Volume: 5
-Range: 8
-Discrimination: 5
+version https://git-lfs.github.com/spec/v1
+oid sha256:65c53c8f3907dfb4af8b946eefa8517909218fd5f9e8129d6462ce652e387783
+size 145

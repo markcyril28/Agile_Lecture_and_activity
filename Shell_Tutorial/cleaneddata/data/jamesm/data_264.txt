@@ -1,9 +1,3 @@
-# 
-Reported: Tue Aug 2 11:21:23 2011
-Subject: jaySync215
-Year/month of birth: 1993/02
-Sex: N
-CI type: 2
-Volume: 4
-Range: 9
-Discrimination: 2
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ff5789acb8d2580de7a99576ff746e7cf84442ebef7c43bdd359d2cdf644773
+size 141

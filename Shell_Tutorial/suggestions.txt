@@ -1,6 +1,3 @@
-- verb, adj, noun of shell
-- pipe into files and explain redirection more slowly
-- remove chmod and just do just bash (no bash header)
-
-- dont clear so fast
-- emphasize that its real data
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c42608f68f30bc7c265cfc97bcbf220efe2c2cca9971462e613fb457bc5644e
+size 188

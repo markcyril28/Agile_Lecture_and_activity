@@ -1,9 +1,3 @@
-# 
-Reported: Tue Aug 23 12:54:20 2011
-Subject: scaryBeet260
-Year/month of birth: 1999/10
-Sex: N
-CI type: 23
-Volume: 7
-Range: 10
-Discrimination: 6
+version https://git-lfs.github.com/spec/v1
+oid sha256:440ab3e7d5c4b371cf43f3f72db25093e5deddc19c46c463bd92160c760f64d7
+size 146

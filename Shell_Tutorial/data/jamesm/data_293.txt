@@ -1,9 +1,3 @@
-# 
-Reported: Thu Jun 2 16:58:46 2011
-Subject: babyJonas240
-Year/month of birth: 1993/03
-Sex: M
-CI type: 3
-Volume: 0
-Range: 9
-Discrimination: 3
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c8eed9a66d25e14c5c2d18e3c70f5a14517e8486d27b8efe5f60650111f558c
+size 143

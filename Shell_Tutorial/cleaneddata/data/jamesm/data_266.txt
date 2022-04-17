@@ -1,9 +1,3 @@
-# 
-Reported: Thu Sep 15 08:58:48 2011
-Subject: johnStarr217
-Year/month of birth: 1996/05
-Sex: N
-CI type: 15
-Volume: 6
-Range: 10
-Discrimination: 6
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ae2bf5f10dc5023ce0364eadd003e50fb03476a73208366da3eaa511c262c20
+size 146

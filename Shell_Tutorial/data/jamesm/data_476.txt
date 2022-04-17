@@ -1,9 +1,3 @@
-# 
-Reported: Fri Sep 2 09:48:10 2011
-Subject: babyBeet384
-Year/month of birth: 1996/04
-Sex: N
-CI type: 21
-Volume: 8
-Range: 8
-Discrimination: 9
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcda49e1c26a685e1ba8d57aa233f543f89bc6ea94b05e8979929c187751d0cc
+size 143

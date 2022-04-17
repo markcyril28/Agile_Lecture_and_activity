@@ -1,9 +1,3 @@
-# 
-Reported: Thu May 26 14:56:52 2011
-Subject: beyonceJonas304
-Year/month of birth: 1995/11
-Sex: F
-CI type: 16
-Volume: 5
-Range: 4
-Discrimination: 5
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7908ecd1b4e64d8b91bc8a468f51b407b45770811c10173bf5de216eb9850ca
+size 148

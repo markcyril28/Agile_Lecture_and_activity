@@ -1,9 +1,3 @@
-# 
-Reported: Fri Jun 24 10:14:01 2011
-Subject: babyBackstreet413
-Year/month of birth: 1992/12
-Sex: F
-CI type: 15
-Volume: 4
-Range: 7
-Discrimination: 6
+version https://git-lfs.github.com/spec/v1
+oid sha256:3249a973a98933231dae3fe4f38a5246304c26ff2f872e4edb54d597c89027c6
+size 150

@@ -1,9 +1,3 @@
-# 
-Reported: Sat Jun 4 11:10:28 2011
-Subject: johnLennon210
-Year/month of birth: 1993/11
-Sex: N
-CI type: 18
-Volume: 6
-Range: 6
-Discrimination: 7
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc8fdb613a1c76ff68fda2993fc892b8212bf72c0037cbbbacbd8862be00ca5b
+size 145
